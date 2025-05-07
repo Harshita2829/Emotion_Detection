@@ -1,0 +1,1 @@
+This project classifies emotions in text using the Hugging Face emotion dataset (sadness, joy, love, anger, fear, surprise). Four models—Logistic Regression, SVM, Naive Bayes, and DistilBERT—are trained and compared
